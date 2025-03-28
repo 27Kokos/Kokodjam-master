@@ -20,7 +20,7 @@
                         <input name="password" type="password" class="form-control" placeholder="Пароль">
                     </div>
                     <div class="mb-3">
-                        <input type="submit" class="form-control btn btn-primary" value="Зарегистрироваться">
+                        <input type="submit" class="form-control btn btn-primary" value="Войти">
                     </div>
                     <p class="text-center">
                         <a style="color: #f08d90; text-decoration: none;" href="/register" class="btn-login">Вы ещё не зарегистрированы? Зарегистрироваться</a>
